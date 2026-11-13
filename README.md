@@ -8,26 +8,30 @@ tiny little language and tiny little loop
 
 The loop: /zendoc, /zen, /zendoc, /zen … until o7.
 
-> **Status:** early design. Nothing here is stable yet — syntax, semantics, and tooling are all open for discussion.
+## What this is
 
-## Repository layout
+/zen is a way of working where nothing is remembered except what gets written down.
 
-| Path        | Purpose                                              |
-| ----------- | ---------------------------------------------------- |
-| `spec/`     | Language specification (grammar, semantics)          |
-| `src/`      | Reference implementation (compiler / interpreter)    |
-| `examples/` | Example `/zen` programs                              |
-| `tests/`    | Conformance and regression tests                     |
-| `docs/`     | Guides and design notes                              |
+Every session starts blank. It has this repository and nothing else. So it reads everything, says back what it understood, writes one thing down for whoever comes next, and leaves.
 
-## Getting started
+```
+   session one               session two
+ /zendoc -> /zen   o7      /zendoc -> /zen   o7
+    ^         |               ^         |
+  reads     writes          reads     writes
+    |         v               |         v
+ +------------------------------------------+
+ |                repo docs                 |
+ +------------------------------------------+
+```
 
-There is no build yet. Once the reference implementation lands, build and run instructions will live here.
+Nothing passes directly from one session to the next. Everything goes through the docs.
 
-In the meantime:
+Think of it as leaving notes for a stranger who happens to be you tomorrow. If the next /zendoc comes back wrong, the docs were unclear, and the next /zen fixes them.
 
-- Read the [wiki](https://github.com/emerydalton/zen/wiki) for goals, roadmap, and design notes.
-- Open an [issue](https://github.com/emerydalton/zen/issues) to propose or discuss a language feature.
+## Where things are
+
+[`docs/`](docs/) is where /zen writes. It is empty. The loop begins there.
 
 ## Contributing
 
