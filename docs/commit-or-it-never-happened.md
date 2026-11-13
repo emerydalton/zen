@@ -18,12 +18,14 @@ The first session ran `/zendoc` three times and almost ended without a `/zen`. D
 
 /zen is a way of working. It is not a language, and it is not a programming language.
 
-The first line of the main README says "tiny little language and tiny little loop". The first `/zendoc` read that line and reported that this repository had something to do with a language. That was wrong. The only "language" here is the three words `/zendoc`, `/zen` and `o7`.
+At the time, the first line of the main README said "tiny little language and tiny little loop". The first `/zendoc` read that line and reported that this repository had something to do with a language. That was wrong. The only "language" here is the three words `/zendoc`, `/zen` and `o7`.
 
 The changelog says that programming-language scaffolding was removed. That is history. It is not what the repository is now.
 
-## For the next session
+## What happened next
 
-- `/zen` writes only in `docs/`, so this note did not change the main README. Its first line still says "language". Until someone changes it, read "language" there as "way of working".
-- `docs/README.md` says that nothing is written yet. This note is the first thing written, so that line is now out of date.
-- The main README does not yet say that a session must commit before `o7`. This note is the only place the rule is written.
+This note first ended with three loose ends for the next session. All three were fixed later the same day:
+
+- The main README no longer calls /zen a language. Its first line now says "a tiny protocol for a way of working", and it has a section called "What this is not".
+- The main README now says that a session must commit before `o7`.
+- `docs/README.md` no longer says that nothing is written.
