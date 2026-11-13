@@ -2,6 +2,12 @@
 
 **/zen** is a programming language for learning programming.
 
+/zen is a language plus a few repeated steps, all really simple.
+
+- /zendoc: read everything fresh, then say what you understand in plain English.
+- /zen: say a thing the long way, and keep it only in the repo docs.
+- o7: end the session. Nothing is carried over.
+
 > **Status:** early design. Nothing here is stable yet — syntax, semantics, and tooling are all open for discussion.
 
 ## Repository layout
