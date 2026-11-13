@@ -1,8 +1,6 @@
 # /zen
 
-**/zen** is a programming language for learning programming.
-
-/zen is a language plus a loop of two steps, all really simple.
+/zen is a tiny little language and a tiny little loop
 
 - /zendoc: read everything fresh, then write what you understand in plain English.
 - /zen: write a thing the long way, only in the repo docs, to be read next.
