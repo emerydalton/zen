@@ -1,6 +1,6 @@
 # /zen
 
-/zen is a tiny little language and a tiny little loop
+tiny little language and tiny little loop
 
 - /zendoc: read everything fresh, then write what you understand in plain English.
 - /zen: write a thing the long way, only in the repo docs, to be read next.
