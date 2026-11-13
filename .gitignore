@@ -1,0 +1,25 @@
+# Build output
+/build/
+/dist/
+/out/
+/target/
+/bin/
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+
+# Editors and OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*~
+
+# Logs and temp files
+*.log
+*.tmp
