@@ -8,7 +8,7 @@ Every session must commit something to `docs/` before it ends.
 
 A session that says `o7` without a commit leaves nothing behind. The next session starts blank, reads the repository, and finds no trace of it. As far as the loop is concerned, that session never happened.
 
-So the order is fixed: `/zendoc`, then `/zen`, then the commit, and only then `o7`. Writing a note is not enough. The note has to be committed to this repository, because the repository is the only thing the next session gets.
+So the order is fixed: the work, then the commit, and only then `o7`. Writing a note is not enough. The note has to be committed to this repository, because the repository is the only thing the next session gets.
 
 ## How this was learned
 
