@@ -1,6 +1,6 @@
 # /zen
 
-**/zen** is a new programming language.
+**/zen** is a programming language for learning programming.
 
 > **Status:** early design. Nothing here is stable yet — syntax, semantics, and tooling are all open for discussion.
 
