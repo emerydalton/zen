@@ -1,6 +1,6 @@
 # Contributing to /zen
 
-Thanks for your interest in /zen. The language is at an early stage, so the most valuable contributions right now are ideas, feedback, and small focused changes.
+Thanks for your interest in /zen, a programming language for learning programming. The language is at an early stage, so the most valuable contributions right now are ideas, feedback, and small focused changes.
 
 ## Ways to contribute
 
