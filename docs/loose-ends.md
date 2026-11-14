@@ -29,7 +29,8 @@ they are. This holds from now on.
   those pages. (From the-wiki.md.)
 - CHANGELOG.md does not mention open-questions.md, the-wiki.md,
   in-light-of.md, three-names.md, what-goes-where.md, questionplace.md,
-  ford.md, it-has-to-serve.md, zazen.md, the-slash.md or this file.
+  ford.md, it-has-to-serve.md, zazen.md, the-slash.md, zendoc-loop.md or
+  this file.
 - docs/README.md says to read every note. It does not say that this file
   is the one that gets rewritten.
 - what-goes-where.md lists "what should be done next" as out of docs/ and
@@ -65,18 +66,30 @@ they are. This holds from now on.
 - CHANGELOG.md has the line "From o7 to o7 is /zen". It may be history
   kept as history, or a claim that is behind. Nobody has said which.
   (Found by a /zendoc.)
-- Several notes in a row were written with no /zendoc between them.
-  zazen.md now says a /zen loop is /zen, then /zendoc, then o7. The author
-  said a second loop is needed, from /zendoc to /zendoc, to catch errors
-  before they are built on. Nobody has said what is in it. It has no note.
-- The README draws the loop with /zendoc first and /zen second. zazen.md
-  gives the /zen loop as /zen first and /zendoc second. A fresh reader
-  meets both.
+- The README draws the loop with /zendoc first and /zen second, and an o7
+  between them. zazen.md gives the /zen loop as /zen first and /zendoc
+  second. zendoc-loop.md gives the /zendoc loop with no o7 in the middle.
+  A fresh reader meets all three.
+- A test was described and not run. Three runs from the same commit, each
+  with readers who see only the repository. In the first, one reader does
+  a /zendoc and then a /zen. In the second, one reader does a /zendoc and
+  commits nothing, then o7, and a new reader is given only /zen. In the
+  third, the same, but the first reader commits the reading. If the second
+  run's /zen misses what the /zendoc found, a reading does not cross an o7
+  unless it is committed. If every reader is the same kind of reader, they
+  may find the same things for that reason alone. (From zendoc-loop.md.)
+- The author asked for a word for talk that happens after an o7 and
+  outside any loop. The reader offered /kinhin, and also /mondo and
+  /dokusan. The author has not chosen. It has no note.
+- The author noticed that two readers with no shared memory had checked
+  each other through the repository alone, and said this had been made by
+  accident. It may bear on what /zen serves. No note says so.
 - The README now gives both kinds of not understanding. questionplace.md
   and three-names.md still quote its older sentence, which gave only the
   first.
-- Four outside documents have been read alongside this repository and
-  have no place to live. See what-goes-where.md.
+- Five outside documents have no place to live. Four were read alongside
+  this repository; see what-goes-where.md. The fifth holds what a blank
+  reader said back; see the fifth questionplace.
 
 ## How this was learned
 
