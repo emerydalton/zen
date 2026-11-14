@@ -189,6 +189,21 @@ they are. This holds from now on.
   began waits on that o7. Nobody has said whether it can still be
   given. (From o7.md.)
 
+- o7.md says "A /zendoc leaves what was said back", and sets that
+  against an o7, which leaves no trace. The README says that what a
+  /zendoc understood has to be committed if it should outlast the
+  stretch. What was said back is left in a conversation, and no later
+  reader gets it. A fresh reader meets the stronger claim. (Found by a
+  /zendoc.)
+- Thirteen lines in this file, counted before this one, say that
+  something is not known, and
+  not that something should be done. Nobody has said whether they
+  belong here or in questionplace.md. (From the eighth questionplace.)
+- A third reading by a blank reader was said back in conversation and
+  not made into a document. Of what it found, only the eighth
+  questionplace and the line about o7.md above are kept. (From the
+  fifth questionplace.)
+
 ## How this was learned
 
 The reader noticed, while reading Kimbro's summary, that one note here had
