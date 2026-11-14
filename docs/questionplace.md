@@ -120,6 +120,12 @@ note then, and not before.
    the repository, as before. Then the author said /zen, and the sixth
    and seventh places were written. The place stays.
 
+   Later on 2026-11-14, in the morning, a third reader was given the
+   repository and the word /zendoc. What that reader said back was said
+   in conversation only. No document was made of it. The reader said
+   at the end that none of it was kept. Then the author said /zen, and
+   the eighth place was written. The place stays.
+
 6. Where a span begins and no o7 was said. Found on 2026-11-14, by a
    reader who was given the repository's address and the word /zendoc,
    and nothing else.
@@ -144,6 +150,13 @@ note then, and not before.
    not say whether a blank start counts as one. See o7.md. The place
    stays.
 
+   The next morning a third reader began the same way, after o7.md was
+   merged. The author gave the address of a page, which the reader
+   could not open, then the repository's name, then the word /zendoc.
+   No o7 was said. loose-ends.md has a first message of o7, then the
+   address, then the word, as a thing not yet tried. It was not tried
+   here. The place stays.
+
 7. Where "read everything" meets the library. Found on 2026-11-14, by
    the same reader.
 
@@ -162,6 +175,46 @@ note then, and not before.
    the library. That line says a page is behind. This place asks
    something else: what a reader who left the library unread may say it
    has read.
+
+   The next morning a third reader read the same things and left the
+   same things unread: the two documents in `library/waiting/`, the
+   wiki, and most of the code of conduct and the licence. It also read
+   the templates and the three configuration files at the top of the
+   repository. It said so, and could not tell either. The place stays.
+
+8. Where loose-ends.md holds what nobody could tell. Found on
+   2026-11-14, by the third reader.
+
+   loose-ends.md says it holds what should be done next, and that a
+   line is deleted when it is done. This note says a questionplace is
+   never deleted. When someone answers it, the answer is written
+   beside it and the place stays.
+
+   loose-ends.md had 45 lines that morning. Thirteen of them say that
+   nobody has said a thing, or that the author has not said or not
+   confirmed it, or that a reader could not tell. Some of those name
+   something to do: ask the author, run the test, check a source.
+   Others only say where something is not known. One is "Nobody has
+   said whether /zazen is a fourth" word. Nothing is done about a line
+   like that. It is answered or it is not.
+
+   So the reader could not tell which file such a line belongs in. If
+   it is a loose end, it is deleted when the author answers, and the
+   place is gone. If it is a questionplace, it stays, and it should not
+   be in a file that is meant to be rewritten.
+
+   Most of the notes also keep their own list under "What could not be
+   told". This note says only a kept notunderstanding is a
+   questionplace, and that kept means committed. Those lists are
+   committed. The reader could not tell whether every line in them is
+   a questionplace, or only the eight numbered here.
+
+   loose-ends.md has a line about a mark the author began working out,
+   called a flag. It says only that a thing is here. Some of these
+   lines may be flags. That mark has no note.
+
+   Nothing was moved. By late binding in three-names.md, a line is
+   sorted when someone runs into it.
 
 Two older ones were here before the word. The third question in
 open-questions.md is asked at an o7 and nowhere else. The question marks
