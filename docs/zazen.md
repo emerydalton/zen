@@ -29,14 +29,41 @@ The older notes say "session", "loop" and "stretch" for the same span. By
 "start in the middle" in three-names.md, they are left as they are. From
 now on the word is /zazen.
 
+## The /zen loop
+
+Said later the same night, after a blank reader's /zendoc had been put off
+several notes in a row.
+
+The author's words: "a /zen loop is /zen to /zendoc to /o7", and "a
+/zazen is a unit that measures distance from begining of a /zen loop to
+it's end", and "a /zen loop once began ends once passing through a
+/zendoc and a /o7 where it is closed and a /zazen has been created by
+closing a /zen".
+
+So a /zen loop has three parts in order. Something is written. A reader
+says it back. Then o7 closes it. A /zen that has not been read back is a
+loop still open, and no /zazen has been made yet.
+
+That is the smallest /zazen: one /zen, carried through its /zendoc to the
+o7 that closes it.
+
+Then the author said what this lacks: "the problem is only going /zen to
+/zen", and "need also a /zendoc to /zendoc loop to catch the errors before
+propagation". A /zen loop tests one note. It does not stop a mistake from
+being built on by the next /zen. The second loop is for that. The author
+has not said what is in it. See loose-ends.md.
+
 ## What could not be told
 
-Three things, each kept here with its place.
+Each of these is kept here with its place.
 
 - At "1 /zen loop". The README draws the loop with more than one o7 in it:
   o7, /zendoc, o7, /zen, o7. The reader could not tell whether one /zen
   loop is the span between two neighbouring o7s, or one whole turn of that
   drawing.
+
+  The author answered: a /zen loop is /zen, then /zendoc, then o7. See
+  "The /zen loop" above. The place stays.
 - At "unfathomably large". If a /zazen always ends at the next o7, it is
   large only when a great deal happens before that o7. If it can run to
   any later o7, it can hold other /zazen inside it. The reader could not
@@ -45,6 +72,14 @@ Three things, each kept here with its place.
 - At the README's "three words". /zazen begins with a slash like /zen and
   /zendoc. The author called it a unit. Nobody has said whether it is a
   fourth word to be said, or only a name.
+- At "/zen to /zendoc". The README says a /zendoc reads fresh, and that
+  nothing crosses an o7 but the repository. That puts an o7 between the
+  /zen and the /zendoc that checks it. The author's three parts do not
+  name one. The reader could not tell whether it is there and unsaid, or
+  whether the same reader may say a note back.
+- At "/o7". The author wrote o7 with a slash, twice. the-slash.md puts
+  the slash on Zen terms, and o7 is not one. The reader could not tell
+  whether this was meant, and left o7 as the notes have it.
 
 ## How this was learned
 

@@ -63,14 +63,13 @@ they are. This holds from now on.
 - No blank reader has read zazen.md or the-slash.md. The reader who wrote
   them had been in the conversation. The next /zazen should begin with a
   /zendoc by a reader who has seen nothing but the repository.
-- Several notes in a row were written with no /zendoc between them. The
-  author said something is needed so that this does not happen, and began
-  working it out as two kinds of /zazen: "not only o7.../zen...o7...
-  /zendoc...o7... but also o7.../zendoc...o7.../zen...o7", and then
-  "/zen to /zen /zazens and /zendoc to /zendoc /zazens". It has no note,
-  and zazen.md does not say it. The reader could not tell whether such a
-  /zazen is two turns, a /zen and the /zendoc that checks it, or runs on
-  until the same word comes round again.
+- Several notes in a row were written with no /zendoc between them.
+  zazen.md now says a /zen loop is /zen, then /zendoc, then o7. The author
+  said a second loop is needed, from /zendoc to /zendoc, to catch errors
+  before they are built on. Nobody has said what is in it. It has no note.
+- The README draws the loop with /zendoc first and /zen second. zazen.md
+  gives the /zen loop as /zen first and /zendoc second. A fresh reader
+  meets both.
 - Four outside documents have been read alongside this repository and
   have no place to live. See what-goes-where.md.
 
