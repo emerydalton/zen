@@ -29,7 +29,7 @@ they are. This holds from now on.
   those pages. (From the-wiki.md.)
 - CHANGELOG.md does not mention open-questions.md, the-wiki.md,
   in-light-of.md, three-names.md, what-goes-where.md, questionplace.md,
-  ford.md, it-has-to-serve.md or this file.
+  ford.md, it-has-to-serve.md, zazen.md or this file.
 - docs/README.md says to read every note. It does not say that this file
   is the one that gets rewritten.
 - what-goes-where.md lists "what should be done next" as out of docs/ and
@@ -41,11 +41,14 @@ they are. This holds from now on.
 - in-light-of.md says next steps are written into the notes. That stopped
   being true when this file was added. A fresh reader meets the old claim
   first. (Found by a /zendoc.)
-- The author named the span between two o7s a /zazen, and said it is a
-  unit. A run of them is a sesshin; the author described it and the reader
-  supplied that word. Neither has a note. The older notes say "session",
-  "loop" and "stretch", and the README says "from o7 to o7 is /zen".
-  ford.md and it-has-to-serve.md are the only notes that say /zazen.
+- A run of /zazen is a sesshin; the author described it and the reader
+  supplied that word. It has no note. zazen.md could not tell whether a
+  sesshin is itself a /zazen.
+- The README's "Not two" section and not-two.md still say that one name,
+  /zen, covers the span from o7 to o7. zazen.md gives that span its own
+  name.
+- The README says "three words". Nobody has said whether /zazen is a
+  fourth. (From zazen.md.)
 - The author began working out a mark called a flag. It says only that a
   thing is here, like a flagpole. A reader may attend to it or not. Some
   of the question marks in what-goes-where.md may be flags instead. The

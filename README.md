@@ -15,7 +15,7 @@ Three words, said by a person and carried out by hand:
 
 The loop: … o7 … /zendoc … o7 … /zen … o7 …
 
-From o7 to o7 is /zen.
+From one o7 to another is a /zazen, the unit of /zen. See [docs/zazen.md](docs/zazen.md).
 
 ## What this is
 
