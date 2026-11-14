@@ -60,6 +60,17 @@ they are. This holds from now on.
 - The author said that Eugene Gendlin is one of the largest influences on
   /zen, and that /zen could not be done without him. No note in docs/
   says so. The author left this open as not pressing.
+- No blank reader has read zazen.md or the-slash.md. The reader who wrote
+  them had been in the conversation. The next /zazen should begin with a
+  /zendoc by a reader who has seen nothing but the repository.
+- Several notes in a row were written with no /zendoc between them. The
+  author said something is needed so that this does not happen, and began
+  working it out as two kinds of /zazen: "not only o7.../zen...o7...
+  /zendoc...o7... but also o7.../zendoc...o7.../zen...o7", and then
+  "/zen to /zen /zazens and /zendoc to /zendoc /zazens". It has no note,
+  and zazen.md does not say it. The reader could not tell whether such a
+  /zazen is two turns, a /zen and the /zendoc that checks it, or runs on
+  until the same word comes round again.
 - Four outside documents have been read alongside this repository and
   have no place to live. See what-goes-where.md.
 
