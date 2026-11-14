@@ -26,3 +26,9 @@ What is seen then goes in a note in `docs/`. The document stays outside
   Integrated Reading of the Wikipedia Article and Its Linked Sources".
   A reading of the English Wikipedia article on Nāgārjuna against the
   pages it links to and the sources it cites. Added on 2026-11-14.
+- `waiting/conlangs-programming-languages-semantic-primitives.md`:
+  "Conlangs, Programming Languages, and the Search for Semantic
+  Primitives: A Research Report". A report on constructed languages,
+  programming languages and minimal sets of primitives. It checks the
+  claims of a pasted text that did not come with it. Added on
+  2026-11-14.
