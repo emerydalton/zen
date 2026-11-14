@@ -114,6 +114,50 @@ note then, and not before.
    a document outside the repository. Neither is kept here. Only these
    two places are.
 
+   Later on 2026-11-14 another reader was given the repository and the
+   word /zendoc, and came to this place again. What that reader said
+   back was said in conversation, and then put in a document outside
+   the repository, as before. Then the author said /zen, and the sixth
+   and seventh places were written. The place stays.
+
+6. Where a span begins and no o7 was said. Found on 2026-11-14, by a
+   reader who was given the repository's address and the word /zendoc,
+   and nothing else.
+
+   The README says every stretch begins at an o7, and that it begins
+   blank. zendoc-loop.md gives the /zendoc loop as o7, then /zendoc,
+   then /zen, then o7. Nobody said o7 to this reader. The reader was
+   blank all the same. The reader could not tell whether beginning
+   blank is the o7, or whether an o7 has to be said, and this span has
+   no opening edge.
+
+   chu.md says a /chu is the span from one o7 to the next. If beginning
+   blank is not an o7, the reader could not tell where this /chu began,
+   or whether it is one.
+
+   chu.md has a span near this one. Of that span it says "No o7 opened
+   it and no word was said until the end", and that by kinhin.md it was
+   a /kinhin. Here a word was said first. So it is not the same place.
+
+7. Where "read everything" meets the library. Found on 2026-11-14, by
+   the same reader.
+
+   The README says a stretch "reads everything". words-not-commands.md
+   says that on /zendoc a reader reads "the whole repository fresh".
+   the-library.md says a reader does not have to read the library, and
+   the library is in the repository.
+
+   The reader read the README, the changelog, the contributing guide,
+   every note in docs/ and the library's README. It did not read the
+   two documents in `library/waiting/`, the wiki, the code of conduct
+   or the licence. It said so. The reader could not tell whether that
+   was a whole reading.
+
+   loose-ends.md has a line near this, that the README does not mention
+   the library. That line says a page is behind. This place asks
+   something else: what a reader who left the library unread may say it
+   has read.
+
 Two older ones were here before the word. The third question in
 open-questions.md is asked at an o7 and nowhere else. The question marks
 in what-goes-where.md sit beside the outside documents. They stay where

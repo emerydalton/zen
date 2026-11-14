@@ -153,6 +153,21 @@ they are. This holds from now on.
   documents. (From chu.md.)
 - chu.md says what Eugene Gendlin's stopped process is, from memory.
   Nobody in the loop has checked it against his book. (From chu.md.)
+- The README's three words say a /zendoc reads and then "write what you
+  understand in plain English". Further down the README says a /zendoc
+  "says back what it understood", and words-not-commands.md says "say".
+  A reader given only the word cannot tell from the first line whether
+  to make a file. (Found by a /zendoc.)
+- docs/README.md says to read every note and gives no order. The order
+  can be worked out only from the "Written on" line at the top of each
+  note. A reader who takes the files as they are listed meets chu.md
+  before zazen.md. (Found by a /zendoc.)
+- kinhin.md says of the two loops that "Each begins with a word and
+  ends at an o7". zendoc-loop.md begins the /zendoc loop at an o7.
+  (Found by a /zendoc.)
+- A second document holding what a blank reader said back is outside
+  the repository. It is called "A /zendoc of the /zen repository". It
+  is not in the library. (From the fifth questionplace.)
 
 ## How this was learned
 
