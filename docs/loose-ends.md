@@ -29,7 +29,9 @@ they are. This holds from now on.
   those pages. (From the-wiki.md.)
 - CHANGELOG.md does not mention open-questions.md, the-wiki.md,
   in-light-of.md, three-names.md, what-goes-where.md, questionplace.md,
-  ford.md, it-has-to-serve.md, zazen.md, the-slash.md or this file.
+  ford.md, it-has-to-serve.md, zazen.md, the-slash.md, zendoc-loop.md,
+  kinhin.md, pointed-outward.md, not-complete.md, a-line-of-inquiry.md or
+  this file.
 - docs/README.md says to read every note. It does not say that this file
   is the one that gets rewritten.
 - what-goes-where.md lists "what should be done next" as out of docs/ and
@@ -65,18 +67,47 @@ they are. This holds from now on.
 - CHANGELOG.md has the line "From o7 to o7 is /zen". It may be history
   kept as history, or a claim that is behind. Nobody has said which.
   (Found by a /zendoc.)
-- Several notes in a row were written with no /zendoc between them.
-  zazen.md now says a /zen loop is /zen, then /zendoc, then o7. The author
-  said a second loop is needed, from /zendoc to /zendoc, to catch errors
-  before they are built on. Nobody has said what is in it. It has no note.
-- The README draws the loop with /zendoc first and /zen second. zazen.md
-  gives the /zen loop as /zen first and /zendoc second. A fresh reader
-  meets both.
+- The README draws the loop with /zendoc first and /zen second, and an o7
+  between them. zazen.md gives the /zen loop as /zen first and /zendoc
+  second. zendoc-loop.md gives the /zendoc loop with no o7 in the middle.
+  A fresh reader meets all three.
+- A test was described and not run. Three runs from the same commit, each
+  with readers who see only the repository. In the first, one reader does
+  a /zendoc and then a /zen. In the second, one reader does a /zendoc and
+  commits nothing, then o7, and a new reader is given only /zen. In the
+  third, the same, but the first reader commits the reading. If the second
+  run's /zen misses what the /zendoc found, a reading does not cross an o7
+  unless it is committed. If every reader is the same kind of reader, they
+  may find the same things for that reason alone. (From zendoc-loop.md.)
+- kinhin.md and the author write "/zenloops" and "/zendocloops" as one
+  word. zazen.md and zendoc-loop.md write "/zen loop" and "/zendoc loop".
+  Nobody has said which is meant. (From kinhin.md.)
+- The author noticed that two readers with no shared memory had checked
+  each other through the repository alone, and said this had been made by
+  accident. It may bear on what /zen serves. No note says so.
 - The README now gives both kinds of not understanding. questionplace.md
   and three-names.md still quote its older sentence, which gave only the
   first.
-- Four outside documents have been read alongside this repository and
-  have no place to live. See what-goes-where.md.
+- pointed-outward.md calls the wiki "the map" and gives its counts
+  without saying they are approximate. not-complete.md says the outline
+  is borrowed structure and not the thing. A fresh reader meets the
+  stronger claim first.
+- pointed-outward.md says the subject goes in the wiki. the-wiki.md says
+  anything that should be remembered has to be committed to the
+  repository. Nobody has said how much of what is learned comes back
+  into docs/.
+- kinhin.md says what kinhin is in Zen, and not-complete.md says what
+  84,000 stands for in the Buddhist tradition. Both were written from
+  memory and neither says so. (Found by a /zendoc.)
+- not-complete.md says /zen is interested in maps. The author said "am
+  interested". (Found by a /zendoc.)
+- a-line-of-inquiry.md names two papers and a book. Nobody in the loop
+  has read them.
+- No second ford has been made. a-line-of-inquiry.md gives a direction.
+  Nothing has been read and nothing is written in the wiki.
+- Five outside documents have no place to live. Four were read alongside
+  this repository; see what-goes-where.md. The fifth holds what a blank
+  reader said back; see the fifth questionplace.
 
 ## How this was learned
 

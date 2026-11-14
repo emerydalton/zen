@@ -61,7 +61,7 @@ comes later is written beside the place, and the place stays.
 ## The fords
 
 1. Between docs/ and the wiki. This is also the third questionplace in
-   questionplace.md. Three crossings are known here.
+   questionplace.md. These crossings are known here.
 
    When the-wiki.md was written, someone looked at the wiki and described
    it.
@@ -73,6 +73,11 @@ comes later is written beside the place, and the place stays.
    In this /zazen the reader read every page of the wiki next to every
    note in docs/, and the author and the reader held the two together as
    one thing. The word ford came out of that.
+
+   On 2026-11-14 the author sent a reader back to the wiki, after the
+   reader had said the repository would grow too large once it had a
+   subject. The reader saw that a subject can live there. See
+   pointed-outward.md.
 
 ## A problem that went away
 
