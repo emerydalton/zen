@@ -56,6 +56,10 @@ note then, and not before.
    his system fails. The author said that whether it is a failure here is
    unknown, because the author has no felt sense of it yet.
 
+   Later the author felt that something was wrong, and said that /zen has
+   to serve. See it-has-to-serve.md. The author did not say whether that
+   answers this place. The place stays.
+
 3. Where the wiki borrows a structure and reads it for the places it
    breaks. The reader went to the wiki when the author asked, and tried to
    say what it is in Kimbro's terms. It is not his mirror of one mind,

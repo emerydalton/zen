@@ -29,7 +29,7 @@ they are. This holds from now on.
   those pages. (From the-wiki.md.)
 - CHANGELOG.md does not mention open-questions.md, the-wiki.md,
   in-light-of.md, three-names.md, what-goes-where.md, questionplace.md,
-  ford.md or this file.
+  ford.md, it-has-to-serve.md or this file.
 - docs/README.md says to read every note. It does not say that this file
   is the one that gets rewritten.
 - what-goes-where.md lists "what should be done next" as out of docs/ and
@@ -45,7 +45,7 @@ they are. This holds from now on.
   unit. A run of them is a sesshin; the author described it and the reader
   supplied that word. Neither has a note. The older notes say "session",
   "loop" and "stretch", and the README says "from o7 to o7 is /zen".
-  ford.md is the only note that says /zazen.
+  ford.md and it-has-to-serve.md are the only notes that say /zazen.
 - The author began working out a mark called a flag. It says only that a
   thing is here, like a flagpole. A reader may attend to it or not. Some
   of the question marks in what-goes-where.md may be flags instead. The
