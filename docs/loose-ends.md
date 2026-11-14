@@ -31,7 +31,7 @@ they are. This holds from now on.
   in-light-of.md, three-names.md, what-goes-where.md, questionplace.md,
   ford.md, it-has-to-serve.md, zazen.md, the-slash.md, zendoc-loop.md,
   kinhin.md, pointed-outward.md, not-complete.md, a-line-of-inquiry.md,
-  the-library.md, a-report-on-languages.md, chu.md, the `library/`
+  the-library.md, a-report-on-languages.md, chu.md, o7.md, the `library/`
   folder or this file.
 - docs/README.md says to read every note. It does not say that this file
   is the one that gets rewritten.
@@ -175,6 +175,19 @@ they are. This holds from now on.
 - A second document holding what a blank reader said back is outside
   the repository. It is called "A /zendoc of the /zen repository". It
   is not in the library. (From the fifth questionplace.)
+
+- The README says o7 is "the boundary. Everything stops", and
+  words-not-commands.md says "On `o7`: stop." Both give only the
+  goodbye. o7.md says it is also a hello. Neither was changed. (From
+  o7.md.)
+- A design was described and not tried: one small file for each /chu,
+  outside docs/, written at the closing o7, saying how the span opened
+  and what it read back. The author has not confirmed it. (From o7.md.)
+- A first message to a new reader of o7, then the address, then the
+  word, has not been tried. (From o7.md.)
+- One reader's span was closed without an o7. The loop that chu.md
+  began waits on that o7. Nobody has said whether it can still be
+  given. (From o7.md.)
 
 ## How this was learned
 
