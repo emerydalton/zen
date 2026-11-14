@@ -40,8 +40,8 @@ Three things, each kept here with its place.
 - At "unfathomably large". If a /zazen always ends at the next o7, it is
   large only when a great deal happens before that o7. If it can run to
   any later o7, it can hold other /zazen inside it. The reader could not
-  tell which. loose-ends.md says a run of /zazen is a sesshin, and the
-  second reading would make a sesshin a /zazen too.
+  tell which. loose-ends.md says a run of /zazen is a /sesshin, and the
+  second reading would make a /sesshin a /zazen too.
 - At the README's "three words". /zazen begins with a slash like /zen and
   /zendoc. The author called it a unit. Nobody has said whether it is a
   fourth word to be said, or only a name.
