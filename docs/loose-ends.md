@@ -138,8 +138,15 @@ they are. This holds from now on.
 
 - The README, zazen.md and ford.md give the span from one o7 to the next
   the name /zazen. chu.md gives that span the name /chu, and makes a
-  /zazen a loop that has closed. The author said "i suppose". None of
-  the three was changed. (From chu.md.)
+  /zazen a loop that has closed. The author said "i suppose", and later
+  "i like /chu, lets keep it". None of the three has been changed. A
+  blank reader met the README's name first, as settled. (From chu.md.)
+- A working document called "/zen map and flow" is outside the
+  repository. It draws what exists and the two loops, and lists the
+  situations a reader or the author can be in. It found three
+  situations with no direction in any note: a blank reader given a
+  question and no word, a blank reader given only /zen, and a reader
+  with a commit on a branch. It is not in the library. (From chu.md.)
 - The author said: "is /zen a language? in one sense, yes. in another,
   no. The exact nature of the distinctions and concepts are not yet well
   understood, and being honest about the unresolved places is good

@@ -15,6 +15,11 @@ And of the names: "/zens, /zazens, /sesshins, /kinhins and /chus", then
 The rule is no firmer than "i suppose". The definition of a /chu is the
 reader's wording for the span the author wanted a better name for.
 
+Later the same night, after a blank reader had read this note back, the
+author said: "i like /chu, lets keep it". So the word is kept. The
+author said it of /chu. The author did not say it of the two units, or
+of what a /zazen is, or of the README.
+
 ## The long way
 
 zazen.md says two things about a /zazen. It is the unit between one o7
