@@ -83,6 +83,11 @@ Each of these is kept here with its place.
   o7 to another, and also from the beginning of a /zen loop to its end.
   If there is an o7 between the /zen and its /zendoc, those are two
   different spans. The place stays.
+
+  Later the same day another reader put this place to the author as a
+  choice. The author answered with the /zendoc loop, and did not say
+  whether the o7 is there. If it is, the two spans have a name each. See
+  chu.md. The place stays.
 - At "/o7". The author wrote o7 with a slash, twice. the-slash.md puts
   the slash on Zen terms, and o7 is not one. The reader could not tell
   whether this was meant, and left o7 as the notes have it.

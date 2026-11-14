@@ -31,8 +31,8 @@ they are. This holds from now on.
   in-light-of.md, three-names.md, what-goes-where.md, questionplace.md,
   ford.md, it-has-to-serve.md, zazen.md, the-slash.md, zendoc-loop.md,
   kinhin.md, pointed-outward.md, not-complete.md, a-line-of-inquiry.md,
-  the-library.md, a-report-on-languages.md, the `library/` folder or
-  this file.
+  the-library.md, a-report-on-languages.md, chu.md, the `library/`
+  folder or this file.
 - docs/README.md says to read every note. It does not say that this file
   is the one that gets rewritten.
 - what-goes-where.md lists "what should be done next" as out of docs/ and
@@ -71,7 +71,8 @@ they are. This holds from now on.
 - The README draws the loop with /zendoc first and /zen second, and an o7
   between them. zazen.md gives the /zen loop as /zen first and /zendoc
   second. zendoc-loop.md gives the /zendoc loop with no o7 in the middle.
-  A fresh reader meets all three.
+  A fresh reader meets all three. chu.md has a fourth, a /zendoc loop
+  with no /zen in it, which the author wrote with a question mark.
 - A test was described and not run. Three runs from the same commit, each
   with readers who see only the repository. In the first, one reader does
   a /zendoc and then a /zen. In the second, one reader does a /zendoc and
@@ -82,7 +83,9 @@ they are. This holds from now on.
   may find the same things for that reason alone. (From zendoc-loop.md.)
 - kinhin.md and the author write "/zenloops" and "/zendocloops" as one
   word. zazen.md and zendoc-loop.md write "/zen loop" and "/zendoc loop".
-  Nobody has said which is meant. (From kinhin.md.)
+  Nobody has said which is meant. (From kinhin.md.) In chu.md the author
+  writes them as one word again, with "/zenlooping", "/zendoclooping"
+  and "/kinhinlooping".
 - The author noticed that two readers with no shared memory had checked
   each other through the repository alone, and said this had been made by
   accident. It may bear on what /zen serves. No note says so.
@@ -132,6 +135,24 @@ they are. This holds from now on.
   new. The notes join two words into one several times, as in
   contemplationcomputation and questionplace. Nobody has said whether
   the joining is a rule. (From a-report-on-languages.md.)
+
+- The README, zazen.md and ford.md give the span from one o7 to the next
+  the name /zazen. chu.md gives that span the name /chu, and makes a
+  /zazen a loop that has closed. The author said "i suppose". None of
+  the three was changed. (From chu.md.)
+- The author said: "is /zen a language? in one sense, yes. in another,
+  no. The exact nature of the distinctions and concepts are not yet well
+  understood, and being honest about the unresolved places is good
+  practice and principle". The README and
+  commit-or-it-never-happened.md say only that it is not one. No note
+  gives the two senses.
+- An outside document called "/zen, in plain English" was read next to
+  the README. It calls /zen a language, says one conversation is a
+  /zazen, and puts what was learned in the wiki. It is not in the
+  library. Nobody has said whether it is one of the five outside
+  documents. (From chu.md.)
+- chu.md says what Eugene Gendlin's stopped process is, from memory.
+  Nobody in the loop has checked it against his book. (From chu.md.)
 
 ## How this was learned
 
