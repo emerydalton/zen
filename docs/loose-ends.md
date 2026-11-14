@@ -195,7 +195,8 @@ they are. This holds from now on.
   stretch. What was said back is left in a conversation, and no later
   reader gets it. A fresh reader meets the stronger claim. (Found by a
   /zendoc.)
-- Thirteen lines in this file say that something is not known, and
+- Thirteen lines in this file, counted before this one, say that
+  something is not known, and
   not that something should be done. Nobody has said whether they
   belong here or in questionplace.md. (From the eighth questionplace.)
 - A third reading by a blank reader was said back in conversation and
