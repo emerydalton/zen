@@ -29,8 +29,9 @@ they are. This holds from now on.
   those pages. (From the-wiki.md.)
 - CHANGELOG.md does not mention open-questions.md, the-wiki.md,
   in-light-of.md, three-names.md, what-goes-where.md, questionplace.md,
-  ford.md, it-has-to-serve.md, zazen.md, the-slash.md, zendoc-loop.md, kinhin.md,
-  pointed-outward.md, not-complete.md or this file.
+  ford.md, it-has-to-serve.md, zazen.md, the-slash.md, zendoc-loop.md,
+  kinhin.md, pointed-outward.md, not-complete.md, a-line-of-inquiry.md or
+  this file.
 - docs/README.md says to read every note. It does not say that this file
   is the one that gets rewritten.
 - what-goes-where.md lists "what should be done next" as out of docs/ and
@@ -95,8 +96,15 @@ they are. This holds from now on.
   anything that should be remembered has to be committed to the
   repository. Nobody has said how much of what is learned comes back
   into docs/.
-- No second ford has been chosen. pointed-outward.md names places one
-  could be made, and the author has picked none.
+- kinhin.md says what kinhin is in Zen, and not-complete.md says what
+  84,000 stands for in the Buddhist tradition. Both were written from
+  memory and neither says so. (Found by a /zendoc.)
+- not-complete.md says /zen is interested in maps. The author said "am
+  interested". (Found by a /zendoc.)
+- a-line-of-inquiry.md names two papers and a book. Nobody in the loop
+  has read them.
+- No second ford has been made. a-line-of-inquiry.md gives a direction.
+  Nothing has been read and nothing is written in the wiki.
 - Five outside documents have no place to live. Four were read alongside
   this repository; see what-goes-where.md. The fifth holds what a blank
   reader said back; see the fifth questionplace.

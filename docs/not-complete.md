@@ -89,6 +89,10 @@ trivialism and paraconsistency. The author did not say how.
   line about all beings, and stopped. The reader did not finish the
   sentence. This is the same place as "What is left open" in
   it-has-to-serve.md.
+- At "also theirs". The author said the thoughts are the author's and
+  also theirs, and then that thought does not belong to anyone. The
+  reader could not tell whether "mine" and "theirs" are said loosely, or
+  whether both are meant and kept.
 - At "uncountable" and "countable". The author used both words. The
   reader took them to mean too many to count in practice, and countable
   in principle. The author did not say so.

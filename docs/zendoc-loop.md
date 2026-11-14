@@ -68,6 +68,15 @@ next loop. It is not a second reading inside this one.
 - At the first /zendoc. That one reading read back the notes written
   before it, which is the middle of a /zen loop. It also began this loop.
   The reader could not tell whether one /zendoc can belong to both.
+- At "the reader has to be blank". Later the same night the author said
+  /zen, then /zendoc, then o7, several times over, to the reader who had
+  written the note each time. After one of these the author said "good
+  loop". This note and zazen.md say a note should be read back by someone
+  who did not write it. The reader could not tell whether the notes are
+  stricter than the practice, or whether a reading by the writer and a
+  reading by a stranger are two different checks. The writer's readings
+  found stale and overstated claims. They could not find what a page
+  fails to carry to someone new.
 
 ## How this was learned
 
