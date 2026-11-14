@@ -56,6 +56,10 @@ note then, and not before.
    his system fails. The author said that whether it is a failure here is
    unknown, because the author has no felt sense of it yet.
 
+   Later the author felt that something was wrong, and said that /zen has
+   to serve. See it-has-to-serve.md. The author did not say whether that
+   answers this place. The place stays.
+
 3. Where the wiki borrows a structure and reads it for the places it
    breaks. The reader went to the wiki when the author asked, and tried to
    say what it is in Kimbro's terms. It is not his mirror of one mind,
@@ -64,6 +68,8 @@ note then, and not before.
    page says the structure is borrowed and not asserted. He has no category
    for it. The author had a hunch that docs/ does one part of Kimbro's
    system and the wiki does the other. This is where that hunch stopped.
+
+   A ford was later marked at this place. See ford.md. The place stays.
 
 Two older ones were here before the word. The third question in
 open-questions.md is asked at an o7 and nowhere else. The question marks
