@@ -30,8 +30,8 @@ they are. This holds from now on.
 - CHANGELOG.md does not mention open-questions.md, the-wiki.md,
   in-light-of.md, three-names.md, what-goes-where.md, questionplace.md,
   ford.md, it-has-to-serve.md, zazen.md, the-slash.md, zendoc-loop.md,
-  kinhin.md, pointed-outward.md, not-complete.md, a-line-of-inquiry.md or
-  this file.
+  kinhin.md, pointed-outward.md, not-complete.md, a-line-of-inquiry.md,
+  the-library.md, the `library/` folder or this file.
 - docs/README.md says to read every note. It does not say that this file
   is the one that gets rewritten.
 - what-goes-where.md lists "what should be done next" as out of docs/ and
@@ -103,11 +103,24 @@ they are. This holds from now on.
   interested". (Found by a /zendoc.)
 - a-line-of-inquiry.md names two papers and a book. Nobody in the loop
   has read them.
-- No second ford has been made. a-line-of-inquiry.md gives a direction.
-  Nothing has been read and nothing is written in the wiki.
-- Five outside documents have no place to live. Four were read alongside
-  this repository; see what-goes-where.md. The fifth holds what a blank
+- the-library.md could not tell whether reading the first library
+  document was the second ford. ford.md's list has one ford. Nothing is
+  written in the wiki.
+- Five outside documents had no place to live. Now there is
+  `library/`, and they are not in it. Four were read alongside this
+  repository; see what-goes-where.md. The fifth holds what a blank
   reader said back; see the fifth questionplace.
+- what-goes-where.md still has two question marks for outside
+  documents, and does not list the library. in-light-of.md says an
+  outside document stays outside. (From the-library.md.)
+- The README says nothing is carried across an o7 but the repo, and
+  that a stretch reads everything. The library is in the repo and does
+  not have to be read. The README does not mention it. (From
+  the-library.md.)
+- One document is in `library/waiting/`. The author has not said it is
+  ready for processing, or what processing is. The reader said six
+  things about it that the author has not confirmed. (From
+  the-library.md.)
 
 ## How this was learned
 
