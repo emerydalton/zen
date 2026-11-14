@@ -31,7 +31,8 @@ they are. This holds from now on.
   in-light-of.md, three-names.md, what-goes-where.md, questionplace.md,
   ford.md, it-has-to-serve.md, zazen.md, the-slash.md, zendoc-loop.md,
   kinhin.md, pointed-outward.md, not-complete.md, a-line-of-inquiry.md,
-  the-library.md, the `library/` folder or this file.
+  the-library.md, a-report-on-languages.md, the `library/` folder or
+  this file.
 - docs/README.md says to read every note. It does not say that this file
   is the one that gets rewritten.
 - what-goes-where.md lists "what should be done next" as out of docs/ and
@@ -121,6 +122,16 @@ they are. This holds from now on.
   ready for processing, or what processing is. The reader said six
   things about it that the author has not confirmed. (From
   the-library.md.)
+- A second document is in `library/waiting/`, a report on made
+  languages. The author has not said it is ready for processing. The
+  reader said six things about it that the author has not confirmed.
+  (From a-report-on-languages.md.)
+- Nobody has said whether the second library document is one of the
+  five outside documents or a sixth. (From a-report-on-languages.md.)
+- The README says the three words cannot be combined to say anything
+  new. The notes join two words into one several times, as in
+  contemplationcomputation and questionplace. Nobody has said whether
+  the joining is a rule. (From a-report-on-languages.md.)
 
 ## How this was learned
 
