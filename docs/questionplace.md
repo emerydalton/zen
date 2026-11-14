@@ -71,6 +71,44 @@ note then, and not before.
 
    A ford was later marked at this place. See ford.md. The place stays.
 
+4. Where a /zendoc stands alone between two o7s. Found on 2026-11-14.
+   A reader was given the repository and the word /zendoc, and nothing
+   else. No /zen came before it in that span.
+
+   zazen.md says two things about size. A /zazen is the unit between one
+   o7 and another. The smallest /zazen is one /zen loop: /zen, then
+   /zendoc, then o7. By the first, a span that holds only a /zendoc is a
+   /zazen. By the second, it is smaller than the smallest one. The reader
+   could not tell whether such a span is a /zazen.
+
+   This is near the place kept in zazen.md at "/zen to /zendoc", and it
+   is not the same place. That one asks whether an o7 sits inside a /zen
+   loop. This one asks what a span is when it holds no /zen at all.
+
+   Later in the same span the author said /zen, and this was written. So
+   the span this was found in now holds a /zendoc and then a /zen, which
+   is the README's order and not zazen.md's. The question is still about
+   the span that holds only a /zendoc.
+
+5. Where a /zendoc ends without a commit. Found on 2026-11-14, by the
+   same reader.
+
+   commit-or-it-never-happened.md says every session must commit
+   something to docs/ before it ends. The README says that what a
+   /zendoc understood has to be committed if it should outlast the
+   stretch. The first reads as a duty on every span. The second reads as
+   a condition: commit it, if it should last. The reader could not tell
+   whether a /zendoc that commits nothing has broken a rule, or has only
+   left nothing behind.
+
+   The older note was written when the word was session and a session
+   held more than one word. That may be all the difference is. The
+   reader could not tell that either.
+
+   What this reader said back was said in conversation, and then put in
+   a document outside the repository. Neither is kept here. Only these
+   two places are.
+
 Two older ones were here before the word. The third question in
 open-questions.md is asked at an o7 and nowhere else. The question marks
 in what-goes-where.md sit beside the outside documents. They stay where

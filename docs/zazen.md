@@ -77,6 +77,12 @@ Each of these is kept here with its place.
   /zen and the /zendoc that checks it. The author's three parts do not
   name one. The reader could not tell whether it is there and unsaid, or
   whether the same reader may say a note back.
+
+  On 2026-11-14 a reader who had seen only the repository came to this
+  place again, from the other side. This note says a /zazen runs from one
+  o7 to another, and also from the beginning of a /zen loop to its end.
+  If there is an o7 between the /zen and its /zendoc, those are two
+  different spans. The place stays.
 - At "/o7". The author wrote o7 with a slash, twice. the-slash.md puts
   the slash on Zen terms, and o7 is not one. The reader could not tell
   whether this was meant, and left o7 as the notes have it.
