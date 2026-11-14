@@ -2,6 +2,11 @@
 
 a tiny protocol for a way of working, held up by a repo
 
+/zen is contemplation and computation as one thing:
+contemplationcomputation, computationcontemplation. Not two. One.
+
+## The three words
+
 Three words, said by a person and carried out by hand:
 
 - o7: the boundary. Everything stops, and nothing is carried across it but the repo.
@@ -18,16 +23,18 @@ From o7 to o7 is /zen.
 
 Every stretch of work begins at an o7 and ends at an o7. It begins blank. It has this repository and nothing else. So it reads everything, does its one thing, commits what should last, and leaves.
 
-A /zendoc stretch reads, and says back what it understood. A /zen stretch reads, and writes one thing down for whoever comes next. Both are /zen in the wider sense: the name covers any stretch from one o7 to the next.
+## Not two
+
+A /zendoc stretch reads, and says back what it understood. A /zen stretch reads, and writes one thing down for whoever comes next. It is tempting to call the first contemplation and the second computation. They are not two things. The reading is already work, and the writing is still understanding, so every stretch is both, whichever word began it. That is why one name covers any stretch from one o7 to the next. See [docs/not-two.md](docs/not-two.md).
 
 ```
  ... o7   /zendoc   o7    /zen    o7   /zendoc   o7 ...
-             ^              |             ^
-           reads         writes         reads
-             |              v             |
+            ^ |           ^ |           ^ |
+            | v           | v           | v
  +----------------------------------------------------+
  |                      the repo                      |
  +----------------------------------------------------+
+   up: read everything      down: commit what should last
 ```
 
 Nothing passes directly across an o7. Everything goes through the repo. A stretch that ends without a commit leaves nothing behind, so as far as the loop is concerned it never happened. That includes what a /zendoc understood: if it should outlast the stretch, it has to be committed too.
