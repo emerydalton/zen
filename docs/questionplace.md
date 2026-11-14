@@ -90,6 +90,11 @@ note then, and not before.
    is the README's order and not zazen.md's. The question is still about
    the span that holds only a /zendoc.
 
+   Later on 2026-11-14 the author said that a /zazen may begin with
+   /zen or with /zendoc, and wrote a /zendoc loop that holds only a
+   /zendoc, with a question mark after it. A reader took that span to be
+   one /chu and a /zazen. See chu.md. The place stays.
+
 5. Where a /zendoc ends without a commit. Found on 2026-11-14, by the
    same reader.
 
