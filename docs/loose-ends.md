@@ -29,8 +29,8 @@ they are. This holds from now on.
   those pages. (From the-wiki.md.)
 - CHANGELOG.md does not mention open-questions.md, the-wiki.md,
   in-light-of.md, three-names.md, what-goes-where.md, questionplace.md,
-  ford.md, it-has-to-serve.md, zazen.md, the-slash.md, zendoc-loop.md, kinhin.md
-  or this file.
+  ford.md, it-has-to-serve.md, zazen.md, the-slash.md, zendoc-loop.md, kinhin.md,
+  pointed-outward.md or this file.
 - docs/README.md says to read every note. It does not say that this file
   is the one that gets rewritten.
 - what-goes-where.md lists "what should be done next" as out of docs/ and
@@ -87,6 +87,8 @@ they are. This holds from now on.
 - The README now gives both kinds of not understanding. questionplace.md
   and three-names.md still quote its older sentence, which gave only the
   first.
+- No second ford has been chosen. pointed-outward.md names places one
+  could be made, and the author has picked none.
 - Five outside documents have no place to live. Four were read alongside
   this repository; see what-goes-where.md. The fifth holds what a blank
   reader said back; see the fifth questionplace.
