@@ -39,7 +39,7 @@ A /zendoc stretch reads, and says back what it understood. A /zen stretch reads,
 
 Nothing passes directly across an o7. Everything goes through the repo. A stretch that ends without a commit leaves nothing behind, so as far as the loop is concerned it never happened. That includes what a /zendoc understood: if it should outlast the stretch, it has to be committed too.
 
-Think of it as leaving notes for a stranger who happens to be you tomorrow. If the next /zendoc comes back wrong, the docs were unclear, and the next /zen fixes them.
+Think of it as leaving notes for a stranger who happens to be you tomorrow. If the next /zendoc comes back wrong, it is one of two things, and the reader says which. Either the docs were unclear, and the next /zen fixes them. Or the docs were clear and the thing itself is not settled, and then it is not fixed but kept, with where it happened. See [docs/questionplace.md](docs/questionplace.md).
 
 ## The repo
 

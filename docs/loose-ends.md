@@ -70,6 +70,9 @@ they are. This holds from now on.
 - The README draws the loop with /zendoc first and /zen second. zazen.md
   gives the /zen loop as /zen first and /zendoc second. A fresh reader
   meets both.
+- The README now gives both kinds of not understanding. questionplace.md
+  and three-names.md still quote its older sentence, which gave only the
+  first.
 - Four outside documents have been read alongside this repository and
   have no place to live. See what-goes-where.md.
 
