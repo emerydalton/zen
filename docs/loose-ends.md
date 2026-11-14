@@ -28,8 +28,8 @@ they are. This holds from now on.
   when /zen was planned as a programming language. Its sidebar lists only
   those pages. (From the-wiki.md.)
 - CHANGELOG.md does not mention open-questions.md, the-wiki.md,
-  in-light-of.md, three-names.md, what-goes-where.md, questionplace.md
-  or this file.
+  in-light-of.md, three-names.md, what-goes-where.md, questionplace.md,
+  ford.md or this file.
 - docs/README.md says to read every note. It does not say that this file
   is the one that gets rewritten.
 - what-goes-where.md lists "what should be done next" as out of docs/ and
@@ -41,10 +41,22 @@ they are. This holds from now on.
 - in-light-of.md says next steps are written into the notes. That stopped
   being true when this file was added. A fresh reader meets the old claim
   first. (Found by a /zendoc.)
-- "Session", "loop" and "stretch" are all used for the span between two
-  o7s. (Found by a /zendoc.)
-- The next stretch should be a /zendoc by a reader who starts blank. No
-  blank reader has read the five notes written after the-wiki.md.
+- The author named the span between two o7s a /zazen, and said it is a
+  unit. A run of them is a sesshin; the author described it and the reader
+  supplied that word. Neither has a note. The older notes say "session",
+  "loop" and "stretch", and the README says "from o7 to o7 is /zen".
+  ford.md is the only note that says /zazen.
+- The author began working out a mark called a flag. It says only that a
+  thing is here, like a flagpole. A reader may attend to it or not. Some
+  of the question marks in what-goes-where.md may be flags instead. The
+  author said not to go back and re-mark everything, and not to fold the
+  marks into one. It has no note.
+- ford.md notices a kind of not understanding that goes away when the
+  terms are said more exactly. questionplace.md names two kinds and not
+  this one.
+- The author said that Eugene Gendlin is one of the largest influences on
+  /zen, and that /zen could not be done without him. No note in docs/
+  says so. The author left this open as not pressing.
 - Four outside documents have been read alongside this repository and
   have no place to live. See what-goes-where.md.
 

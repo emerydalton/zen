@@ -65,6 +65,8 @@ note then, and not before.
    for it. The author had a hunch that docs/ does one part of Kimbro's
    system and the wiki does the other. This is where that hunch stopped.
 
+   A ford was later marked at this place. See ford.md. The place stays.
+
 Two older ones were here before the word. The third question in
 open-questions.md is asked at an o7 and nowhere else. The question marks
 in what-goes-where.md sit beside the outside documents. They stay where
