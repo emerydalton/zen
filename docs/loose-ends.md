@@ -29,8 +29,8 @@ they are. This holds from now on.
   those pages. (From the-wiki.md.)
 - CHANGELOG.md does not mention open-questions.md, the-wiki.md,
   in-light-of.md, three-names.md, what-goes-where.md, questionplace.md,
-  ford.md, it-has-to-serve.md, zazen.md, the-slash.md, zendoc-loop.md or
-  this file.
+  ford.md, it-has-to-serve.md, zazen.md, the-slash.md, zendoc-loop.md, kinhin.md
+  or this file.
 - docs/README.md says to read every note. It does not say that this file
   is the one that gets rewritten.
 - what-goes-where.md lists "what should be done next" as out of docs/ and
@@ -78,9 +78,9 @@ they are. This holds from now on.
   run's /zen misses what the /zendoc found, a reading does not cross an o7
   unless it is committed. If every reader is the same kind of reader, they
   may find the same things for that reason alone. (From zendoc-loop.md.)
-- The author asked for a word for talk that happens after an o7 and
-  outside any loop. The reader offered /kinhin, and also /mondo and
-  /dokusan. The author has not chosen. It has no note.
+- kinhin.md and the author write "/zenloops" and "/zendocloops" as one
+  word. zazen.md and zendoc-loop.md write "/zen loop" and "/zendoc loop".
+  Nobody has said which is meant. (From kinhin.md.)
 - The author noticed that two readers with no shared memory had checked
   each other through the repository alone, and said this had been made by
   accident. It may bear on what /zen serves. No note says so.
