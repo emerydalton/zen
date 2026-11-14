@@ -35,6 +35,11 @@ This is close to the first question in open-questions.md, which asks how
 /zen relates to anyone else's work. It is not the same question, and this
 note does not answer either.
 
+Later the same night the author said, in three lines: "/zen served a
+beginner, me", "i lacked", "a way of working". That is said of what /zen
+served. The author did not say what it serves from here on, or whether
+this closes the question. The question stays.
+
 ## How this was learned
 
 After ford.md the author was tired, and said it was not a tiredness of
@@ -59,3 +64,11 @@ was not what would carry forward at that moment.
 The reader said this answers the second questionplace, where the author
 had no felt sense yet of whether a loop about itself is a failure. The
 author did not say so.
+
+The later lines were learned like this. An old note, what-zen-is.md, from
+when /zen was planned as a programming language for learning programming,
+came back into docs/ through a merge. A reader read it and reported that
+it was the one place in docs/ where an answer to "what does /zen serve"
+had once been written: beginners, who lack a way of working more than
+they lack vocabulary. The author had the note removed again, and said the
+three lines.
