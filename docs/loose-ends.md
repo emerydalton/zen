@@ -60,9 +60,11 @@ they are. This holds from now on.
 - The author said that Eugene Gendlin is one of the largest influences on
   /zen, and that /zen could not be done without him. No note in docs/
   says so. The author left this open as not pressing.
-- No blank reader has read zazen.md or the-slash.md. The reader who wrote
-  them had been in the conversation. The next /zazen should begin with a
-  /zendoc by a reader who has seen nothing but the repository.
+- ford.md says /zazen "has no note of its own yet". zazen.md is that
+  note. A fresh reader meets the old claim. (Found by a /zendoc.)
+- CHANGELOG.md has the line "From o7 to o7 is /zen". It may be history
+  kept as history, or a claim that is behind. Nobody has said which.
+  (Found by a /zendoc.)
 - Several notes in a row were written with no /zendoc between them.
   zazen.md now says a /zen loop is /zen, then /zendoc, then o7. The author
   said a second loop is needed, from /zendoc to /zendoc, to catch errors
