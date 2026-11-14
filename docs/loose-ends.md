@@ -28,9 +28,23 @@ they are. This holds from now on.
   when /zen was planned as a programming language. Its sidebar lists only
   those pages. (From the-wiki.md.)
 - CHANGELOG.md does not mention open-questions.md, the-wiki.md,
-  in-light-of.md, three-names.md, what-goes-where.md or this file.
+  in-light-of.md, three-names.md, what-goes-where.md, questionplace.md
+  or this file.
 - docs/README.md says to read every note. It does not say that this file
   is the one that gets rewritten.
+- what-goes-where.md lists "what should be done next" as out of docs/ and
+  sends it to this file, which is in docs/. It means out of the other
+  notes. (Found by a /zendoc.)
+- three-names.md says every note in docs/ has one title and one rule. It
+  holds three rules itself, and this file and the-wiki.md do not fit
+  either. (Found by a /zendoc.)
+- in-light-of.md says next steps are written into the notes. That stopped
+  being true when this file was added. A fresh reader meets the old claim
+  first. (Found by a /zendoc.)
+- "Session", "loop" and "stretch" are all used for the span between two
+  o7s. (Found by a /zendoc.)
+- The next stretch should be a /zendoc by a reader who starts blank. No
+  blank reader has read the five notes written after the-wiki.md.
 - Four outside documents have been read alongside this repository and
   have no place to live. See what-goes-where.md.
 
