@@ -139,6 +139,11 @@ note then, and not before.
    it and no word was said until the end", and that by kinhin.md it was
    a /kinhin. Here a word was said first. So it is not the same place.
 
+   Later the same night the author said that o7 "is also hello", and
+   that it had been said only at endings out of habit. The author did
+   not say whether a blank start counts as one. See o7.md. The place
+   stays.
+
 7. Where "read everything" meets the library. Found on 2026-11-14, by
    the same reader.
 
